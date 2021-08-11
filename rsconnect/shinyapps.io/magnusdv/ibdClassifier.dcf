@@ -1,0 +1,13 @@
+name: ibdClassifier
+title: ibdClassifier
+username:
+account: magnusdv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4479897
+bundleId: 4911003
+url: https://magnusdv.shinyapps.io/ibdClassifier/
+when: 1628676297.25989
+lastSyncTime: 1628676297.25989
+asMultiple: FALSE
+asStatic: FALSE
